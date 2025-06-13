@@ -3,7 +3,7 @@ import { createBrowserRouter } from "react-router-dom"
 // PAGES
 import Home from "./pages/home"
 import Admin from "./pages/admin"
-import Login from "./pages/login"
+import { Login } from "./pages/login"
 import Networks from "./pages/networks"
 
 const router = createBrowserRouter([

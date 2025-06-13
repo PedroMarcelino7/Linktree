@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+    --dark: #101010;
+}
+
+body {
+    background-color: var(--dark);
+    margin-top: 3rem;
+}
